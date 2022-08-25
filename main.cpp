@@ -17,7 +17,7 @@ using std::endl;
 using std::cin;
 using std::getline;
 using std::string;
-using std::stoi;                       // string to int
+using std::stoi;                                                          // string to int
 
 int main()
 {
@@ -47,7 +47,7 @@ int main()
     Capitalize(userLastName);
      cout << endl;
 
-     Data updatedData(userFirstName, userLastName);     // class constructor is called
+     Data updatedData(userFirstName, userLastName);                       // class constructor is called
      cout << "= Updated data =" << endl;
      cout << updatedData.ToString() << endl << endl;
      cout << updatedData.ToJson() << endl;
