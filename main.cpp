@@ -1,3 +1,7 @@
+// Author: Franiskus Agapa
+// Practices make improvment - Have Fun !
+// :)
+
 #include <iostream>
 #include "string"
 #include "Data.h"
