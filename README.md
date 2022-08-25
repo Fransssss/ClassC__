@@ -1,4 +1,4 @@
-# ClassC++
+# Class C++
 Class C++
 
 
